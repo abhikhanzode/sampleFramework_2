@@ -1,0 +1,18 @@
+<qa:environment xmlns:qa="urn:model.commons.qatools.yandex.ru">
+  <parameter>
+    <key>Environment</key>
+    <value>OPT</value>
+  </parameter>
+  <parameter>
+    <key>Platform</key>
+    <value>WINDOWS</value>
+  </parameter>
+  <parameter>
+    <key>BrowserName</key>
+    <value>chrome</value>
+  </parameter>
+  <parameter>
+    <key>BrowserVersion</key>
+    <value>81.0.4044.138</value>
+  </parameter>
+</qa:environment>

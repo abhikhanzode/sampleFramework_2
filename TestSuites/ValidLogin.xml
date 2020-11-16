@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Valid Login Scenario">
+    <listeners>
+        <listener class-name="utilities.listener.TestListener"/>
+    </listeners>
+    <test name="Check login and logout successfully">
+        <classes>
+            <class name="pages.LoginPageTest"/>
+            <class name="pages.TestPageConsinment"/>
+        </classes>
+    </test>
+</suite>
